@@ -1,0 +1,21 @@
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  20/2/2023 4:09:42 pm 10.0.1.79 GET /
+ HTTP  20/2/2023 4:09:42 pm 10.0.1.79 Returned 304 in 22 ms
+ HTTP  20/2/2023 4:09:42 pm 10.0.1.79 GET /static/js/main.5251a261.js
+ HTTP  20/2/2023 4:09:42 pm 10.0.1.79 GET /static/css/main.073c9b0a.css
+ HTTP  20/2/2023 4:09:42 pm 10.0.1.79 Returned 304 in 8 ms
+ HTTP  20/2/2023 4:09:42 pm 10.0.1.79 Returned 304 in 6 ms
+ HTTP  20/2/2023 4:09:42 pm 10.0.1.79 GET /static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg
+ HTTP  20/2/2023 4:09:42 pm 10.0.1.79 GET /favicon.ico
+ HTTP  20/2/2023 4:09:42 pm 10.0.1.79 Returned 304 in 3 ms
+ HTTP  20/2/2023 4:09:42 pm 10.0.1.79 Returned 304 in 5 ms
+ HTTP  20/2/2023 4:09:43 pm 10.0.1.79 GET /
+ HTTP  20/2/2023 4:09:43 pm 10.0.1.79 Returned 304 in 3 ms
+ HTTP  20/2/2023 4:09:43 pm 10.0.1.79 GET /static/js/main.5251a261.js
+ HTTP  20/2/2023 4:09:43 pm 10.0.1.79 GET /static/css/main.073c9b0a.css
+ HTTP  20/2/2023 4:09:43 pm 10.0.1.79 Returned 304 in 4 ms
+ HTTP  20/2/2023 4:09:43 pm 10.0.1.79 Returned 304 in 4 ms
+ HTTP  20/2/2023 4:09:43 pm 10.0.1.79 GET /static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg
+ HTTP  20/2/2023 4:09:43 pm 10.0.1.79 Returned 304 in 2 ms
+ HTTP  20/2/2023 4:09:43 pm 10.0.1.79 GET /favicon.ico
+ HTTP  20/2/2023 4:09:43 pm 10.0.1.79 Returned 304 in 2 ms
